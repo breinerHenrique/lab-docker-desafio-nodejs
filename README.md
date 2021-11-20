@@ -2,4 +2,8 @@ Desafio de Docker realizado durante o treinamento "Formaçao Kubedev", ministrad
 
 O desafio consiste em criar uma imagem Docker de uma aplicação em NodeJS que foi passada pelo professor. 
 
-Da aplicação, temos apenas o código fonte, sendo necessário entender como a linguagem trabalha para realizar a criação da imagem e em seguida executá-la em container na máquina local. 
+Da aplicação, temos apenas o código fonte, sendo necessário entender como a linguagem trabalha para realizar a criação da imagem e em seguida executá-la em container na máquina local.
+
+A aplicação utilizada nesse desafio é a "Conversão de Temperatura", acessível via web na porta 8080.
+
+No repositório encontra-se o arquivo dockerfile utilizado para criação da imagem Docker.
