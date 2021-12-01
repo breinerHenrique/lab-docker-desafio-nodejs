@@ -7,4 +7,4 @@ Da aplicação, temos apenas o código fonte, sendo necessário entender como a 
 A aplicação utilizada nesse desafio é a "Conversão de Temperatura", acessível via web na porta 8080.
 
 No repositório encontra-se o arquivo dockerfile utilizado para criação da imagem Docker, a qual está disponível em meu repositório dockerhub:
-docker pull breinerhenrique/desafio-conversor-temperatura:latest
+docker pull breinerhenrique/desafio-conversor-temperatura:v1
